@@ -1,4 +1,4 @@
-In this project, let's build a **Light Dark Mode** app by applying the concepts we have learned till now.
+In this project, I build a **Light Dark Mode** app.
 
 ### Refer to the image below:
 
@@ -18,30 +18,21 @@ In this project, let's build a **Light Dark Mode** app by applying the concepts 
 
 </details>
 
-### Set Up Instructions
-
-<details>
-<summary>Click to view</summary>
-
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
-</details>
-
 ### Completion Instructions
 
 <details>
 <summary>Functionality to be added</summary>
 <br/>
 
-The app must have the following functionalities
+The app has the following functionalities
 
-- When the app is opened, the UI should be displayed in Dark mode
+- When the app is opened, the UI is displayed in Dark mode
 - When the app is in Dark mode and the **Light Mode** button is clicked
-  - The UI should be displayed in Light mode
-  - The text content in the button should be changed to **Dark Mode**
+  - The UI is displayed in Light mode
+  - The text content in the button is changed to **Dark Mode**
 - When the app is in Light mode and the **Dark Mode** button is clicked
-  - The UI should be displayed in Dark mode
-  - The text content in the button should be changed to **Light Mode**
+  - The UI is displayed in Dark mode
+  - The text content in the button is changed to **Light Mode**
 
 </details>
 
@@ -73,10 +64,3 @@ Use these files to complete the implementation:
 - Roboto
 
 </details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.

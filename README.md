@@ -21,7 +21,7 @@ In this project, I build a **Light Dark Mode** app.
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be added</summary>
+<summary>Functionalities added</summary>
 <br/>
 
 The app has the following functionalities
@@ -37,10 +37,10 @@ The app has the following functionalities
 </details>
 
 <details>
-<summary>Implementation Files</summary>
+<summary>ImplementedFiles</summary>
 <br/>
 
-Use these files to complete the implementation:
+Used these files to complete the implementation:
 
 - `src/components/LightDarkMode/index.js`
 - `src/components/LightDarkMode/index.css`
